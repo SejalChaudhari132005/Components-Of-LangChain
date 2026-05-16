@@ -12,3 +12,5 @@ langchain-openai
 chromadb
 langchain-community
 langchain_ollama
+sentence_transformers
+langchain_huggingface
