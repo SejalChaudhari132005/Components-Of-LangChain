@@ -19,3 +19,5 @@ chromadb
 langchain_chroma
 beautifulsoup4
 streamlit
+langchain_groq
+langchain_core
